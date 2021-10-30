@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 <h3 align="center">Django Developer | Open Source</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan4416&label=Profile%20views&color=0e75b6&style=flat" alt="darshan4416" /> </p>
 
 - 🔭 I’m currently working on **DevSearch**
 
