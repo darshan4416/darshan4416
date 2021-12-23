@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
-<h3 align="center">Django Developer | Open Source</h3>
+<h3 align="center">Django Developer | React</h3>
 
 
 - 🔭 I’m currently working on **DevSearch**
