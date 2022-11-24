@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on AWS Projects
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **Cloud | AWS**
 
 - 👨‍💻 All of my projects are available at [https://darshan-hirekurubar-profile.netlify.app/](https://darshan-hirekurubar-profile.netlify.app/)
 
