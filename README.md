@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
-<h3 align="center">Django Developer | React</h3>
+<h3 align="center">Django Developer | React | AWS </h3>
 
 
-- 🔭 I’m currently working on **DevSearch**
+- 🔭 I’m currently working on AWS Projects
 
 - 🌱 I’m currently learning **JavaScript, React**
 
